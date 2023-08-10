@@ -98,7 +98,7 @@ With a global presence, the company has expanded its business operations signifi
 ### `fact_sales_monthly`
 - Similar to `fact_forecast_monthly` with actual sold quantities.
 
-## Additional Tables
+### Additional Tables
 
 ### `gdb056`
 - `freight_cost`: Details of travel and other costs for each market by fiscal year.
@@ -107,11 +107,18 @@ With a global presence, the company has expanded its business operations signifi
 - `Pre_invoice_dedutions`: Details of pre-invoice deduction percentages for each customer by year.
 - `Post_invoice_deductions`: Details of post-invoice and other deductions.
 
----
-
 This dataset provides comprehensive information about customers, markets, products, and various costs. The dimension tables offer static data, while the fact tables provide transactional and forecasting insights. Analyzing this dataset can lead to valuable insights for optimizing sales, costs, and customer satisfaction.
 
----
+# Data Model
+
+![Data Modeling](images/datamodel.png)
+
+Data modeling plays a pivotal role and serves as the foundation for generating meaningful reports. The entire framework of visualizations is constructed upon a well-designed data model. Neglecting proper data modeling can have adverse effects on the overall performance of the generated reports.
+
+In the context of this project, we have meticulously followed the Snowflake data modeling method. This approach involves structuring data into normalized forms, resulting in reduced redundancy and improved query performance. This methodology enhances the way we organize and process data, ensuring optimal results for our analysis.
+
+Remember, a robust data model is the cornerstone of effective data analysis and reporting. By employing sound data modeling practices, we can confidently generate insightful visualizations that empower data-driven decision-making.
+
 
 
 
