@@ -124,6 +124,25 @@ Remember, a robust data model is the cornerstone of effective data analysis and 
 
 You can find the interactive dashboard [**here**](https://app.powerbi.com/view?r=eyJrIjoiYzBlNzQzMDYtN2I3ZC00MzQxLWFjYWYtOGFjMmRlMThiMTE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+### Home View
+![Data Modeling](images/homeview.png)
 
+### Finance View
+![Data Modeling](images/financeview.png)
+
+### Sales View
+![Data Modeling](images/salesview.png)
+
+### Marketing View
+![Data Modeling](images/marketingview.png)
+
+### Supply Chain View
+![Data Modeling](images/supplychainview.png)
+
+### Executive View
+![Data Modeling](images/executiveview.png)
+
+### Info Page
+![Data Modeling](images/infopage.png)
 
 
