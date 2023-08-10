@@ -68,21 +68,4 @@ AtliQ Hardware is a rapidly growing company that specializes in selling computer
 
 With a global presence, the company has expanded its business operations significantly in recent years.
 
-## Project Goals
 
-The primary goals of this data analytics project are to:
-
-- Provide data-driven insights to support decision-making across various departments.
-- Analyze finance, sales, marketing, and supply chain data to identify trends and opportunities.
-- Visualize key performance indicators (KPIs) using interactive dashboards in Power BI.
-- Optimize business operations, enhance profitability, and strengthen market competitiveness.
-
-## Data Analysis
-
-We performed an in-depth analysis of AtliQ Hardware's data, utilizing tools such as Excel and DAX language, to derive meaningful insights. By processing and interpreting data related to **Gross Price**, **Pre-Invoice Deductions**, **Post-Invoice Deductions**, **Net Invoice Sale**, **Gross Margin**, **Net Sales**, **Net Profit**, **COGC (Cost of Goods Sold)**, and more, we were able to uncover patterns and trends that drive the company's performance.
-
-## Key Insights
-
-Our data analysis efforts led to the discovery of several key insights:
-
-- **Gross Margin Optimization**:
