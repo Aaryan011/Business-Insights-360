@@ -125,7 +125,7 @@ Remember, a robust data model is the cornerstone of effective data analysis and 
 You can find the interactive dashboard [**here**](https://app.powerbi.com/view?r=eyJrIjoiYzBlNzQzMDYtN2I3ZC00MzQxLWFjYWYtOGFjMmRlMThiMTE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Home View
-![Data Modeling](images/homeview.png)
+![Data Modeling](images/home.png)
 
 ### Finance View
 ![Data Modeling](images/financeview.png)
