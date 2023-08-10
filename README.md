@@ -11,6 +11,7 @@ Welcome to the AtliQ Hardware Data Analytics project repository! In this project
 - [Business Terminology](#business-terminology)
 - [Company Background](#company-background)
 - [Dataset](#dataset)
+- [Dashboard](#dashboard)
 
 ## Introduction
 
@@ -109,7 +110,7 @@ With a global presence, the company has expanded its business operations signifi
 
 This dataset provides comprehensive information about customers, markets, products, and various costs. The dimension tables offer static data, while the fact tables provide transactional and forecasting insights. Analyzing this dataset can lead to valuable insights for optimizing sales, costs, and customer satisfaction.
 
-# Data Model
+## Data Model
 
 ![Data Modeling](images/datamodel.png)
 
@@ -118,6 +119,10 @@ Data modeling plays a pivotal role and serves as the foundation for generating m
 In the context of this project, we have meticulously followed the Snowflake data modeling method. This approach involves structuring data into normalized forms, resulting in reduced redundancy and improved query performance. This methodology enhances the way we organize and process data, ensuring optimal results for our analysis.
 
 Remember, a robust data model is the cornerstone of effective data analysis and reporting. By employing sound data modeling practices, we can confidently generate insightful visualizations that empower data-driven decision-making.
+
+## Dashboard
+
+You can find the interactive dashboard [**here**](https://app.powerbi.com/view?r=eyJrIjoiYzBlNzQzMDYtN2I3ZC00MzQxLWFjYWYtOGFjMmRlMThiMTE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
